@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Meterial UI
+Styled Component
+React Redux
+React Router
+React Reveal
+
 ### `npm start`
 
 Runs the app in the development mode.\
